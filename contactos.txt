@@ -1,0 +1,15 @@
+Nombre: John Jairo Hurtado Ortiz 
+Email: john1223_6@hotmail.com
+Telefono: 3173131753
+Mensaje: Hola
+
+Nombre: Adriana Aldana
+Email: adripato@gmail.com
+Telefono: 3124831036
+Mensaje: Hola x2
+
+Nombre: Jose Hurtado
+Email: JY@hotmail.es
+Telefono: 3112665549
+Mensaje: Hola x3
+
